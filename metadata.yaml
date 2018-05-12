@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26750'
     url: http://www.gutenberg.org/2009/agents/26750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24816#Life-at-Puget-Sound--With-Sketches-of-Travel-in-Washington-Territory-British-Columbia-Oregon-_
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-13'
 gutenberg_type: Text
