@@ -1,0 +1,29 @@
+_repo: Life-at-Puget-Sound--With-Sketches-of-Travel-in-Washington-Territory-British-Columbia-Oregon-__24816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leighton, Caroline C.
+    gutenberg_agent_id: '26750'
+    url: http://www.gutenberg.org/2009/agents/26750
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Northwest, Pacific -- Description and travel'
+- !lcsh 'Voyages to the Pacific coast'
+- !lcsh 'Leighton, Caroline C.'
+- !lcc 'F850.5'
+title: 'Life at Puget Sound: With Sketches of Travel in Washington Territory, British
+  Columbia, Oregon and California'
+url: http://www.gutenberg.org/ebooks/24816
